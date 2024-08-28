@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Abdulwasiu Omotayo Akande</h1>
+<h1 align="center">Hi 👋, I'm Mr Malvern Okechi</h1>
 <h3 align="center">A problem-solver, skilled in the act of providing solutions using codes.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newtayo" alt="newtayo" /></a> </p>
 
 - 🌱 Here are my stack **Javascript, React, Ruby, Ruby on Rails, SQL, MongoDB and PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://omotayo-akande.onrender.com/](https://omotayo-akande.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://
 
 - 💬 Ask me about **Javascript, Html, CSS, React, Node JS, Ruby and Rails**
 
-- 📫 How to reach me **akandeabdul@gmail.com**
+- 📫 How to reach me **spannotech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
